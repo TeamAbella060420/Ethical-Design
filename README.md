@@ -14,4 +14,7 @@
  8. Disguised Ads - Sometimes ads are disguised to be part of the app, as you can see on Yelp in the image below. The ads (sponsored results) are mixed into the results with very little differentiation.
  9. Hard-to-Close Ads and Banners - Sometimes I accidentally open an ad as I try to close it! In the image below, the X icon is very low contrast and difficult to see. Size also matters; make buttons large enough to easily close. Interactive targets should generally be at least 44 pixels wide.
  10. Wrap-up - That's all the dark patterns we have time for now. The website darkpatterns.org showcases even more examples, and I encourage you to check it out.
- 11. A Final Note - Sometimes these tactics work -- at least in the short term. Dark patterns have hidden costs that appear in the form of additional customer service workload, return fees, and PR management. Customer trust can deteriorate, leading to negative reviews and a worsening reputation on social media. It's better to do the right thing and aim for long term sustainability. More on building the business case later.
+ 
+ # A Final Note 
+ 
+ Sometimes these tactics work -- at least in the short term. Dark patterns have hidden costs that appear in the form of additional customer service workload, return fees, and PR management. Customer trust can deteriorate, leading to negative reviews and a worsening reputation on social media. It's better to do the right thing and aim for long term sustainability. More on building the business case later.
