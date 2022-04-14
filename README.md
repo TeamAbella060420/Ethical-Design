@@ -1,3 +1,11 @@
 # Ethical-Design
  
- 1. What is Ethical Design? - We'll define Ethical Design and explain how it relates to other terms, such as inclusive design, usability, accessibility, privacy, universal design, and human-centered design.  
+ 1. What is Ethical Design? - We'll define Ethical Design and explain how it relates to other terms, such as inclusive design, usability, accessibility, privacy, universal design, and human-centered design.
+
+# Dark Patterns 
+
+ 1. Definition -  A deceitful technique used in websites and apps, where the interface tricks users into doing something they didn't intend to do.
+ 2.  Privacy Zuckering - Privacy Zuckering is when you are tricked into publicly sharing more information about yourself than you really intended to. It's named after Facebook CEO Mark Zuckerberg, as Facebook encourages users to share information about themselves which is then used for ad targeting. Remember the 10 Year Challenge profile picture trend where people posted photos of themselves in 2009 and 2019?
+ 3. Friend Spam - Friend Spam is when a product asks for your email or social media permissions under the pretense it will be used for a desirable outcome but then spams all your contacts on your behalf. LinkedIn offers to help you connect with your friends on the platform by merely sharing your contacts. Sounds helpful, right? Well, embarrassingly enough, it emails your contacts that aren't on LinkedIn. The emails even use your name to make it seem like you were personally inviting them to join LinkedIn.
+ 4. Roach Motel - It's easy to get a booking, but challenging to get out. Have you ever upgraded a membership online, but when you wanted to downgrade, you had to call customer support and endure a grueling wait time? When I canceled my gym membership, I had to physically mail in the request. This required finding a printer, which I didn't have. And an envelope and stamp which I had already packed because I was moving. So while I easily signed up onsite, the gym made it difficult to get out.
+ 5. Forced Obsolescence - In 2020, Apple settled a $500 million dollar class-action lawsuit that accused the company of intentionally slowing down older phones' performance to encourage new phone purchases. In Apple's apology, they introduced a new feature called "Battery Health," which lets you check the maximum capacity of your battery. So instead of automatically capping performance without explanation, now consumers have insight into the cause of the slowdown and can, theoretically replace the battery to extend the lifespan of the phone.
