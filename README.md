@@ -16,5 +16,9 @@
  10. Wrap-up - That's all the dark patterns we have time for now. The website darkpatterns.org showcases even more examples, and I encourage you to check it out.
  
  # A Final Note 
- 
+
  Sometimes these tactics work -- at least in the short term. Dark patterns have hidden costs that appear in the form of additional customer service workload, return fees, and PR management. Customer trust can deteriorate, leading to negative reviews and a worsening reputation on social media. It's better to do the right thing and aim for long term sustainability. More on building the business case later.
+
+ # Collecting Data
+
+ Let's evaluate consumer surveillance streams and the rise of surveillance capitalism.
